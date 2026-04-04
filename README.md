@@ -24,7 +24,7 @@ I don’t just learn tech — I build with it 💻🔥
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MindfulTechie-06/MindfulTechie-06/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌐 Socials:
