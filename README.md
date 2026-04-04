@@ -1,25 +1,23 @@
-💫 Hi 👋, I'm Himanish Chatterjee
+## 👋 Hi, I'm Himanish Chatterjee
 
-A passionate Full Stack Developer || AI/ML Enthusiast || Future Tech Builder from India 🚀
-
-Email Me 👉 ✉️ himanishchatterjee060@gmail.com for Collaboration, Projects, or Tech Discussions 😊
-
-🔭 I’m currently working on:
-AI Academic Survival System (Building step-by-step from scratch)
-🌱 I’m currently learning:
-Full Stack Development (JavaScript, React, Node.js) + AI/ML Integration
-👯 I’m looking to collaborate on:
-AI + Web Development Projects / Startup Ideas
-🤔 I’m looking for help with:
-Scaling full-stack apps & integrating AI models
-💬 Ask me about:
-JavaScript, Beginner Projects, GitHub, AI project ideas
-📫 How to reach me:
-✉️ himanishchatterjee060@gmail.com
-💼 (https://www.linkedin.com/in/himanish-chatterjee-153a50327/)
-😄 Pronouns: He/Him
+🚀 Full Stack Developer | AI/ML Enthusiast | Startup Builder  
+💡 Building real-world projects & scalable systems  
 ⚡ Fun fact:
 I don’t just learn tech — I build with it 💻🔥
+
+## 🚀 Featured Projects
+
+🔹 **Habit Tracker Evolution**
+- CLI → File Storage → Streak System
+- Tech: Node.js, File System
+
+🔹 **AI Academic Survival System**
+- AI-powered learning assistant
+- Tech: JavaScript, AI APIs
+
+🔹 **FashionBridge**
+- Platform connecting small fashion businesses
+- Tech: Full Stack (React, Node.js)
 
 # 📊 GitHub Stats:
 
