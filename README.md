@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Himanish Chatterjee
 
-🚀 Full Stack Developer | AI/ML Enthusiast | Startup Builder  
+🚀 Frontend Developer | AI/ML Enthusiast | Startup Builder  
 💡 Building real-world projects & scalable systems  
 ⚡ Fun fact:
 I don’t just learn tech — I build with it 💻🔥
@@ -14,10 +14,6 @@ I don’t just learn tech — I build with it 💻🔥
 🔹 **AI Academic Survival System**
 - AI-powered learning assistant
 - Tech: JavaScript, AI APIs
-
-🔹 **FashionBridge**
-- Platform connecting small fashion businesses
-- Tech: Full Stack (React, Node.js)
 
 # 📊 GitHub Stats:
 
