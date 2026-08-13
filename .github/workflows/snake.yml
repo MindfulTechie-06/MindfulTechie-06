@@ -5,8 +5,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 permissions:
   contents: write
@@ -20,8 +19,8 @@ jobs:
         with:
           github_user_name: MindfulTechie-06
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#10B981&color_dots=#ebedf0,#d1d5db,#86efac,#22c55e,#15803d
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#10B981&color_dots=#2d3343,#334155,#166534,#22c55e,#86efac
+            dist/github-contribution-grid-snake.svg?color_snake=%2310B981&color_dots=%23ebedf0,%23d1d5db,%2386efac,%2322c55e,%2315803d
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2310B981&color_dots=%232d3343,%23334155,%23166534,%2322c55e,%2386efac
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
