@@ -1,55 +1,12 @@
 # 👋 Hi, I'm Himanish Chatterjee
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-animated.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-    <img alt="Himanish Chatterjee GitHub profile banner" src="./assets/banner-animated.gif" width="100%">
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>AI/ML • Full-Stack Development • Open Source • Building in Public</b>
-</p>
+<img src="./assets/profile-banner.png" alt="Himanish Chatterjee - AI/ML Full-Stack Developer" width="100%">
 
----
+</div>
 
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&hide_border=true&theme=transparent"
-width="48%"
-/>
-
-<img
-src="https://streak-stats.demolab.com?user=MindfulTechie-06&theme=transparent&hide_border=true"
-width="48%"
-/>
-
-</p>
-## ⭐ Open Source Impact
-
-<p align="center">
-
-<a href="https://github.com/MindfulTechie-06?tab=repositories">
-<img src="https://img.shields.io/github/stars/MindfulTechie-06?style=for-the-badge&logo=github&label=TOTAL%20STARS" />
-</a>
-
-<a href="https://github.com/MindfulTechie-06?tab=repositories">
-<img src="https://img.shields.io/github/followers/MindfulTechie-06?style=for-the-badge&logo=github&label=FOLLOWERS" />
-</a>
-
-<a href="https://github.com/MindfulTechie-06?tab=repositories">
-<img src="https://img.shields.io/github/repos/MindfulTechie-06?style=for-the-badge&logo=github&label=REPOSITORIES" />
-</a>
-
-</p>
-
----
 
 ## 🐍 Contribution Activity
 
