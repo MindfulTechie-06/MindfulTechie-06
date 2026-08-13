@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Himanish Chatterjee GitHub profile banner" src="./assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-animated.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+    <img alt="Himanish Chatterjee GitHub profile banner" src="./assets/banner-animated.gif" width="100%">
   </picture>
 </p>
 
@@ -17,7 +17,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&include_all_commits=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=MindfulTechie-06&theme=transparent&hide_border=true&date_format=M%20j%2C%20Y" width="49%" />
 </p>
 
@@ -56,7 +56,7 @@
 
 ### 🤖 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=7" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -71,33 +71,21 @@
 
 ---
 
-## 🚀 Featured Repositories
+## ⭐ Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/MindfulTechie-06/Portfolio_New">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Portfolio_New&theme=transparent&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/MindfulTechie-06/ecoai-smart-sustainability-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=ecoai-smart-sustainability-assistant&theme=transparent&hide_border=true" width="49%" />
-  </a>
+  <a href="https://github.com/MindfulTechie-06/Portfolio_New"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Portfolio_New&theme=transparent&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/MindfulTechie-06/ecoai-smart-sustainability-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=ecoai-smart-sustainability-assistant&theme=transparent&hide_border=true" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MindfulTechie-06/Aurashield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Aurashield&theme=transparent&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/MindfulTechie-06/grid-sense-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=grid-sense-ai&theme=transparent&hide_border=true" width="49%" />
-  </a>
+  <a href="https://github.com/MindfulTechie-06/Aurashield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Aurashield&theme=transparent&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/MindfulTechie-06/grid-sense-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=grid-sense-ai&theme=transparent&hide_border=true" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MindfulTechie-06/architect-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=architect-ai&theme=transparent&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/MindfulTechie-06/Ai-MoodJournal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Ai-MoodJournal&theme=transparent&hide_border=true" width="49%" />
-  </a>
+  <a href="https://github.com/MindfulTechie-06/ai-phishing-detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=ai-phishing-detector&theme=transparent&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/MindfulTechie-06/architect-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=architect-ai&theme=transparent&hide_border=true" width="49%" /></a>
 </p>
 
 <p align="center">
@@ -111,17 +99,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanish-chatterjee-153a50327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/himanish-chatterjee-153a50327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="iamhimanish.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="iamhimanish.xyz"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:himanishchatterjee060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:himanishchatterjee060@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
