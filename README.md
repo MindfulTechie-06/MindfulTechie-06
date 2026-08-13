@@ -20,25 +20,32 @@
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=10B981&text_color=94A3B8"
-    width="49%"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&hide_border=true&theme=transparent"
+width="48%"
+/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=MindfulTechie-06&theme=transparent&hide_border=true&ring=10B981&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
-    width="49%"
-  />
+<img
+src="https://streak-stats.demolab.com?user=MindfulTechie-06&theme=transparent&hide_border=true"
+width="48%"
+/>
 
 </p>
 ## ⭐ Open Source Impact
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show=stars&hide=rank,commits,prs,issues,contribs&theme=transparent&hide_border=true&title_color=FBBF24&text_color=94A3B8"
-    width="70%"
-  />
+<a href="https://github.com/MindfulTechie-06?tab=repositories">
+<img src="https://img.shields.io/github/stars/MindfulTechie-06?style=for-the-badge&logo=github&label=TOTAL%20STARS" />
+</a>
+
+<a href="https://github.com/MindfulTechie-06?tab=repositories">
+<img src="https://img.shields.io/github/followers/MindfulTechie-06?style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/MindfulTechie-06?tab=repositories">
+<img src="https://img.shields.io/github/repos/MindfulTechie-06?style=for-the-badge&logo=github&label=REPOSITORIES" />
+</a>
 
 </p>
 
@@ -47,23 +54,11 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MindfulTechie-06/MindfulTechie-06/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MindfulTechie-06/MindfulTechie-06/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/MindfulTechie-06/MindfulTechie-06/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/MindfulTechie-06/MindfulTechie-06/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
@@ -106,39 +101,77 @@
 
 ## 🚀 Featured Repositories
 
-<p align="center">
+<table>
+<tr>
 
-  <a href="https://github.com/MindfulTechie-06/Portfolio_New">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Portfolio_New&theme=transparent&hide_border=true"
-      width="49%"
-    />
-  </a>
+<td width="50%">
 
-  <a href="https://github.com/MindfulTechie-06/Aurashield">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=Aurashield&theme=transparent&hide_border=true"
-      width="49%"
-    />
-  </a>
+### 🌐 Portfolio
 
+<a href="https://github.com/MindfulTechie-06/Portfolio_New">
+<b>Portfolio_New</b>
+</a>
+
+<p>
+My personal developer portfolio showcasing my projects, skills and experience.
 </p>
 
+</td>
+
+<td width="50%">
+
+### 🛡️ AuraShield
+
+<a href="https://github.com/MindfulTechie-06/Aurashield">
+<b>Aurashield</b>
+</a>
+
+<p>
+An AI/security focused project built around intelligent protection and analysis.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Grid Sense AI
+
+<a href="https://github.com/MindfulTechie-06/grid-sense-ai">
+<b>grid-sense-ai</b>
+</a>
+
+<p>
+AI-powered project focused on intelligent grid and sustainability solutions.
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🧠 Architect AI
+
+<a href="https://github.com/MindfulTechie-06/architect-ai">
+<b>architect-ai</b>
+</a>
+
+<p>
+An AI-focused project exploring intelligent development workflows.
+</p>
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
 
-  <a href="https://github.com/MindfulTechie-06/grid-sense-ai">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=grid-sense-ai&theme=transparent&hide_border=true"
-      width="49%"
-    />
-  </a>
-
-  <a href="https://github.com/MindfulTechie-06/architect-ai">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MindfulTechie-06&repo=architect-ai&theme=transparent&hide_border=true"
-      width="49%"
-    />
-  </a>
+<a href="https://github.com/MindfulTechie-06?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 ---
