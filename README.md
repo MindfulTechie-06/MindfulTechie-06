@@ -18,39 +18,7 @@
 
 <br>
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&theme=dark" alt="GitHub Statistics" />
-</p>
-
-<h2>📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MindfulTechie-06&theme=github_dark" width="100%" alt="GitHub Statistics">
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MindfulTechie-06&theme=github_dark" width="100%" alt="Most Used Languages">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MindfulTechie-06&theme=github_dark" width="100%" alt="GitHub Contribution Details">
-
-</div>
-
-<br>
 
 ## 🐍 Contribution Activity
 
