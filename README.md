@@ -12,100 +12,40 @@
 
 <br>
 
+<br>
+
+<br>
+
+
+<br>
+
 <h2>📊 GitHub Statistics</h2>
 
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-<h3>📈 CONTRIBUTIONS</h3>
-
-<p>
-<font size="6"><b>323</b></font>
-</p>
-
-<p>Last Year</p>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>📦 REPOSITORIES</h3>
-
-<p>
-<font size="6"><b>20</b></font>
-</p>
-
-<p>Public Repositories</p>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>🔥 COMMITS</h3>
-
-<p>
-<font size="6"><b>23</b></font>
-</p>
-
-<p>August 2026</p>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>🌐 FOLLOWERS</h3>
-
-<p>
-<font size="6"><b>1</b></font>
-</p>
-
-<p>GitHub Followers</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 <table>
 <tr>
-
 <td width="50%" align="center">
 
-<h3>🚀 OPEN SOURCE ACTIVITY</h3>
-
-<p>
-<b>18</b> repositories contributed to
-</p>
-
-<p>
-<b>98%</b> commits &nbsp; • &nbsp; <b>2%</b> pull requests
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MindfulTechie-06&theme=github_dark" width="100%" alt="GitHub Statistics">
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>📅 CONTRIBUTION ACTIVITY</h3>
-
-<p>
-<b>323</b> contributions in the last year
-</p>
-
-<p>
-Building consistently on GitHub
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MindfulTechie-06&theme=github_dark" width="100%" alt="Most Used Languages">
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MindfulTechie-06&theme=github_dark" width="100%" alt="GitHub Contribution Details">
+
+</div>
+
+<br>
 
 ## 🐍 Contribution Activity
 
