@@ -18,20 +18,11 @@
 
 <br>
 
-<h2>🔥 GitHub Activity</h2>
+## 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-  src="./assets/github-activity.svg"
-  width="100%"
-  alt="GitHub Activity Statistics"
-/>
-
-</div>
-
-<br>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MindfulTechie-06&show_icons=true&theme=dark" alt="GitHub Statistics" />
+</p>
 
 <h2>📊 GitHub Statistics</h2>
 
