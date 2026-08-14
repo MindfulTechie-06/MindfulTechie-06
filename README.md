@@ -18,6 +18,27 @@
 
 <br>
 
+# 📊 GitHub Stats
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=MindfulTechie-06&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=MindfulTechie-06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=MindfulTechie-06&theme=dark&hide_border=false"
+    height="190"
+  />
+</p>
 
 
 ## 🐍 Contribution Activity
