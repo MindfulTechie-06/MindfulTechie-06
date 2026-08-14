@@ -16,9 +16,55 @@
 
 <br>
 
+<h2>📊 GitHub Activity</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h3>📊 TOTAL COMMITS</h3>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MindfulTechie-06&theme=github_dark"
+width="100%"
+alt="GitHub Statistics"
+/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🔥 CURRENT STREAK</h3>
+
+<img
+src="https://streak-stats.demolab.com/?user=MindfulTechie-06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=238636&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&hide_longest_streak=true&hide_total_contributions=true"
+width="100%"
+alt="Current GitHub Streak"
+/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🏆 LONGEST STREAK</h3>
+
+<img
+src="https://streak-stats.demolab.com/?user=MindfulTechie-06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=8957E5&fire=8957E5&currStreakLabel=8957E5&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&hide_current_streak=true&hide_total_contributions=true"
+width="100%"
+alt="Longest GitHub Streak"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
-
 <h2>📊 GitHub Statistics</h2>
 
 <div align="center">
