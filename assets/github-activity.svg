@@ -1,0 +1,99 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1000" height="230"
+        rx="14"
+        fill="#0D1117"
+        stroke="#30363D"/>
+
+  <line x1="333" y1="30" x2="333" y2="200"
+        stroke="#30363D"/>
+
+  <line x1="666" y1="30" x2="666" y2="200"
+        stroke="#30363D"/>
+
+  <!-- TOTAL COMMITS -->
+
+  <text x="166" y="65"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700">
+    📊 TOTAL COMMITS
+  </text>
+
+  <text x="166" y="135"
+        text-anchor="middle"
+        fill="#58A6FF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700">
+    287
+  </text>
+
+  <!-- CURRENT STREAK -->
+
+  <text x="500" y="65"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700">
+    🔥 CURRENT STREAK
+  </text>
+
+  <text x="500" y="135"
+        text-anchor="middle"
+        fill="#F78166"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700">
+    2
+  </text>
+
+  <!-- LONGEST STREAK -->
+
+  <text x="833" y="65"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700">
+    🏆 LONGEST STREAK
+  </text>
+
+  <text x="833" y="135"
+        text-anchor="middle"
+        fill="#A371F7"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700">
+    26
+  </text>
+
+  <text x="166" y="175"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14">
+    GitHub contributions
+  </text>
+
+  <text x="500" y="175"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14">
+    consecutive days
+  </text>
+
+  <text x="833" y="175"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14">
+    best streak
+  </text>
+
+</svg>
