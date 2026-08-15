@@ -8,18 +8,6 @@
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -39,6 +27,67 @@
     height="190"
   />
 </p>
+<br>
+
+<h2>⚡ Currently Building</h2>
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🤖 AI Engineering</h3>
+
+Building practical AI/ML applications with
+Python, Generative AI, APIs and intelligent
+automation.
+
+<br><br>
+
+<code>AI</code>
+<code>Python</code>
+<code>GenAI</code>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🌐 Full-Stack Systems</h3>
+
+Creating modern web applications with
+React, TypeScript, Node.js and cloud-based
+services.
+
+<br><br>
+
+<code>React</code>
+<code>TypeScript</code>
+<code>Node.js</code>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🌍 Open Source</h3>
+
+Contributing to developer communities,
+building in public and working on
+community-driven projects.
+
+<br><br>
+
+<code>GitHub</code>
+<code>Open Source</code>
+<code>Community</code>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
 
 
 ## 🐍 Contribution Activity
