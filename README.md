@@ -219,43 +219,21 @@ An AI-focused project exploring intelligent development workflows.
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/himanish-chatterjee-153a50327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://iamhimanish.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="mailto:himanishchatterjee060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<a href="https://iamhimanish.xyz">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a><a href="mailto:himanishchatterjee060@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/himanish-chatterjee-153a50327/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://x.com/HimanishCh65417">
+<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a><a href="https://www.instagram.com/_.himanixx._?igsh=MXUxMGUzZWlmZzFpYQ==">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </p>
-
----
 
 <p align="center">
   <sub>Building things • Learning continuously • Contributing to open source</sub>
